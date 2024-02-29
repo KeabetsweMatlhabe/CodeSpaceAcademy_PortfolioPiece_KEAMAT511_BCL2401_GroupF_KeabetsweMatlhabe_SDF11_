@@ -26,4 +26,4 @@ Code Optimization: My code archieved a desired outcome and I'll improve in CSS p
 Creative Design Choices:I adhered closely to the Banking App, for practice but would like to experiment with more creative design choices in future projects.
 
 Overall Learning Experience
--This project was hands-on experience in applying CSS layout techniques and Tailwind. It helped understand my understanding of Tailwind techniques to its practical applications in web development. I look forward to building on these skills in future projects to enhance my knowledge and challenge myself.
+-This project was hands on, Cache Bank portfolio piece has been an enriching journey that has allowed us to explore various aspects of web development and design. Through each component, I have strived to achieve our project objectives while honing our technical skills and knowledge.

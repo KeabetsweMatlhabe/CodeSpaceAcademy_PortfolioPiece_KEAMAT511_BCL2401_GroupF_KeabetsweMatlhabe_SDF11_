@@ -29,3 +29,6 @@ Overall Learning Experience
 -This project was hands on, Cache Bank portfolio piece has been an enriching journey that has allowed us to explore various aspects of web development and design. Through each component, I have strived to achieve our project objectives while honing our technical skills and knowledge.
 
 Presentation slide link:https://docs.google.com/presentation/d/1mCaJfXt09E8CG67fXnGQf0KKXje33FE_DyWhpFZJJTk/edit?usp=sharing
+
+Loom Video:
+https://www.loom.com/share/9d313d15ebb243ba945a50108962eb64?sid=874bbeb5-dacf-495b-8852-0233c817e38d
